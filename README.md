@@ -2,7 +2,7 @@
 
 Mirror Repo for JMdict, JMnedict, and KANJIDIC
 
-## License (JMdict, JMnedict, and KANJIDIC)
+## License (EDRDG)
 
 ```
 http://www.edrdg.org/edrdg/licence.html
