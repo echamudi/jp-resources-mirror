@@ -136,3 +136,9 @@ DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.
 ```
+
+## License (Kanji Data Media)
+
+```
+This work by Kanji alive is licensed under a Creative Commons Attribution 4.0 International License. Permissions beyond the scope of this license may be available at http://kanjialive.com/credits/.
+```
